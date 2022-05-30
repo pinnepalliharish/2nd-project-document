@@ -1,0 +1,46 @@
+db.cities.insert(
+    [
+        
+        {
+            "city_id":1,
+            "city_name":"Agra",
+            "city_image":"https://i.ibb.co/9p4Q8s7/agra-img.png"
+        },
+        {
+            "city_id":2,
+            "city_name":"Amritsar",
+            "city_image":"https://i.ibb.co/D5bNtWM/Amritsar.png" 
+        },
+        {
+            "city_id":3,
+            "city_name":"New Delhi",
+            "city_image":"https://i.ibb.co/C7YbFG7/delhi.png" 
+        },
+        {
+            "city_id":4,
+            "city_name":"Mumbai",
+            "city_image":"https://i.ibb.co/V9sQpKc/mumbai.png" 
+        },
+        {
+            "city_id":5,
+            "city_name":"Hyderabad",
+            "city_image":"https://i.ibb.co/kqwdQ7G/Hyderabad.png"
+        },
+        {
+            "city_id":6,
+            "city_name":"Jaipur",
+            "city_image":"https://i.ibb.co/W3Wf0Pk/jaipur.png"
+        },
+        {
+            "city_id":7,
+            "city_name":"Goa",
+            "city_image":"https://i.ibb.co/CW3VsDQ/goa.png"
+        },
+        {
+            "city_id":8,
+            "city_name":"Bangalore",
+            "city_image":"https://i.ibb.co/X3LkM8d/bng-img.jpg"
+        }
+    ]
+
+)
